@@ -13,3 +13,7 @@ Mình luôn thích thú với việc khám phá công nghệ mới và tự tay 
 ![Tech Stack Banner](link_anh_banner_cua_ban_o_day.png)
 
 📫 **Liên hệ với mình:** [Email/Link Facebook của bạn]
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huyhoangy&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyhoangy&layout=compact&theme=tokyonight" />
+</div>
